@@ -1,1 +1,1 @@
-# odin-recipes
+Well, here we go. First public project. It's just going to be a small recipe website—nothing fancy. Just something to practice some basic HTML concepts with.
